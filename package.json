@@ -1,0 +1,28 @@
+{
+  "name": "tapas-authorize",
+  "version": "0.1.0",
+  "description": "Tapas authorize library.",
+  "main": "index.js",
+  "dependencies": {
+    "qiniu": "^6.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TapasFE/tapas-authorize.git"
+  },
+  "keywords": [
+    "tapas",
+    "authorize",
+    "qiniu"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TapasFE/tapas-authorize/issues"
+  },
+  "homepage": "https://github.com/TapasFE/tapas-authorize#readme"
+}
